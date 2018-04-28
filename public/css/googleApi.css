@@ -1,0 +1,15 @@
+#map {
+    width: 100%;
+    height: 550px;
+    background-color: grey;: center;
+    display: block;
+    border: groove;
+}
+
+#for_button {
+    padding: 5px;
+    text-align: center;
+    border: 1px solid green;
+    border-radius: 150px;
+    width: 150px;
+}
